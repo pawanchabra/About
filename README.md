@@ -1,0 +1,2 @@
+# About
+Hi there I'm Pawan Chabra👋 A Frontend Developer based in Mumbai, India. I graduated from Wilson College in Bachelor of Science in Information Technology, tho everything that I know for the web is through self-learning. Currently, I work at Pepper Content. While I'm not coding, you can find me playing chess or FPS games, reading fictional books, or binging on Netflix.  I also casually blog on topics that I learn.  Reach out to me on Portfolio jibin.tech Twitter @real_jibin Linkedin https://www.linkedin.com/in/jibin2706
